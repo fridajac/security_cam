@@ -13,4 +13,8 @@ In terminal in root, type command:
 pip3 install -r requirements.txt
 ```
 
-Exectute code by clicking on icon Run icon in the top right gutter. Stop camera by hitting the q-button.
+Exectute code by command:
+
+```bash
+python3 main.py
+```
