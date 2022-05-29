@@ -1,4 +1,4 @@
-## My own security camera :camera_flash: 	:lock: 
+# My own security camera :camera_flash: 	:lock: 
 
 A simple security camera created with Python and [OpenCV](https://pypi.org/project/opencv-python/). Detecting bigger movements and making alarm sound.
 
@@ -6,7 +6,12 @@ Inspired from tutorial by [Programming Hero](https://www.youtube.com/watch?v=UOI
 
 Alarm sound alerte2.wav from [findsounds.com](https://www.findsounds.com/ISAPI/search.dll?keywords=alarm)
 
-# Installation and Usage
+## Requirements
+
+- Python
+- Pip3
+
+## Installation and Usage
 
 In terminal in root, type command:
 ```bash
