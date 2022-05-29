@@ -2,7 +2,7 @@
 
 A simple security camera created with Python and [OpenCV](https://pypi.org/project/opencv-python/). Detecting bigger movements and making alarm sound.
 
-Inspirated from turturial by [Programming Hero] (https://www.youtube.com/watch?v=UOIKXp82iEw) but with own functionality like [Pygame mixer(https://www.pygame.org/docs/ref/mixer.html). 
+Inspired from tutorial by [Programming Hero](https://www.youtube.com/watch?v=UOIKXp82iEw) but with own functionality like [Pygame mixer](https://www.pygame.org/docs/ref/mixer.html). 
 
 Alarm sound alerte2.wav from [findsounds.com](https://www.findsounds.com/ISAPI/search.dll?keywords=alarm)
 
